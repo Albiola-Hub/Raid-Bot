@@ -1,0 +1,13 @@
+{
+  "name": "raid-bot-private",
+  "version": "1.0.0",
+  "description": "Private Raid Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "express": "^4.18.2"
+  }
+}
